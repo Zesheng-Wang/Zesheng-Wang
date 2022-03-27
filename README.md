@@ -1,1 +1,7 @@
-
+- 👋 Hi, I’m @Zesheng-Wang
+- 👀 I’m interested in Python and C++
+- 🌱 I’m currently learning Django, Algorithms and Data Structures
+- 📫 How to reach me ...
+  - MyGithub : https://github.com/Zesheng-Wang
+  - MyCSDN :https://blog.csdn.net/Zesheng_Wang
+  - WeChat public : python入门到进阶
